@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/D:/Mobileapp/iosched/android/src/main/res/values-sw720dp/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="multipane_half_padding">16dp</dimen>
+    <dimen name="multipane_padding">32dp</dimen>
+    <dimen name="plus_stream_padding_horizontal">128dp</dimen>
+    <dimen name="plus_stream_padding_vertical">32dp</dimen>
+    <dimen name="sliding_pane_width">384dp</dimen>
+    <!-- From: file:/D:/Mobileapp/iosched/android/src/main/res/values-sw720dp/integers.xml -->
+    <eat-comment />
+
+    <integer name="links_columns">3</integer>
+    <!-- From: file:/D:/Mobileapp/iosched/android/src/main/res/values-sw720dp/styles.xml -->
+    <eat-comment />
+
+    <style name="TextBody">
+        <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:lineSpacingMultiplier">1.2</item>
+        <item name="android:textColor">@color/body_text_1</item>
+        <item name="android:textIsSelectable">true</item>
+        <item name="android:textAlignment">textStart</item>
+    </style>
+
+    <style name="TextHeader2">
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/accent_1</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">4dp</item>
+        <item name="android:background">@drawable/accent_bottom_border</item>
+    </style>
+
+    <style name="TextHeader3">
+        <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:paddingBottom">4dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/body_text_1</item>
+        <item name="android:textIsSelectable">true</item>
+    </style>
+
+</resources>

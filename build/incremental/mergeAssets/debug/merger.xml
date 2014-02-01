@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="ComAndroidSupportAppcompatV71800.aar" >
+        <source path="D:\Mobileapp\iosched\android\build\exploded-bundles\ComAndroidSupportAppcompatV71800.aar\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="D:\Mobileapp\iosched\android\src\main\assets" >
+            <file
+                name="licenses.html"
+                path="D:\Mobileapp\iosched\android\src\main\assets\licenses.html" />
+            <file
+                name="maptiles/floor0-v2.svg"
+                path="D:\Mobileapp\iosched\android\src\main\assets\maptiles\floor0-v2.svg" />
+            <file
+                name="maptiles/floor1-v2.svg"
+                path="D:\Mobileapp\iosched\android\src\main\assets\maptiles\floor1-v2.svg" />
+            <file
+                name="maptiles/floor2-v2.svg"
+                path="D:\Mobileapp\iosched\android\src\main\assets\maptiles\floor2-v2.svg" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="D:\Mobileapp\iosched\android\src\debug\assets" />
+    </dataSet>
+
+</merger>

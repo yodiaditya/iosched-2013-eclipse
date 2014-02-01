@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/D:/Mobileapp/iosched/android/src/main/res/values-sw720dp-land/integers.xml -->
+    <eat-comment />
+
+    <integer name="links_columns">1</integer>
+    <integer name="login_pane_width_percent">50</integer>
+
+</resources>

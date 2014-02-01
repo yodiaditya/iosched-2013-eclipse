@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/D:/Mobileapp/iosched/android/src/main/res/values-sw360dp/styles.xml -->
+    <eat-comment />
+
+    <style name="LoginHelpText">
+        <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+        <item name="android:textColor">@color/body_text_1</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+</resources>
